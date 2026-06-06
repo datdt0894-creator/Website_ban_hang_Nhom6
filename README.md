@@ -12,6 +12,7 @@ Hệ thống bao gồm hai phần:
 ## Công nghệ sử dụng
 
 * PHP
+* JavaScript
 * MySQL (thiết kế và quản lý cơ sở dữ liệu)
 * HTML5
 * CSS3
